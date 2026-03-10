@@ -1,1 +1,2 @@
 Update at 2026-03-13T05:13:21: fix: resolve Zygote hook timeout on Android 14
+Update at 2026-03-10T05:13:21: fix: handle null pointer in hook handler
