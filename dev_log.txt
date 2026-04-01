@@ -1,3 +1,4 @@
 Update at 2026-03-13T05:13:21: fix: resolve Zygote hook timeout on Android 14
 Update at 2026-03-10T05:13:21: fix: handle null pointer in hook handler
 Update at 2026-03-13T05:13:21: perf: reduce overhead of method tracing
+Update at 2026-04-01T05:13:21: chore: update build dependencies for NDK r26
